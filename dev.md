@@ -1,2 +1,1 @@
-# congratilations
-# remote changers and test
+# congratulations and test, remote control
