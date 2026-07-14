@@ -1,0 +1,5 @@
+some new strings in this file
+str 1
+ str2
+ str 1
+ str 2
